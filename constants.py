@@ -1,0 +1,10 @@
+class StratumConstants:
+    PROTOCOL_VERSION = 2
+    MESSAGE_TYPE_REQUEST = 0
+    MESSAGE_TYPE_RESPONSE = 1
+    ERROR_INVALID_REQUEST = -1
+    ERROR_SERVER_FAILURE = -2
+    # Other necessary constants...
+
+    MAX_RESPONSE_SIZE = 4096
+    MAX_CONNECTIONS = 10

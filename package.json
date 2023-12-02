@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "python": "^0.0.4",
+    "python-shell": "^5.0.0",
+    "stratum": "^0.2.4"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
